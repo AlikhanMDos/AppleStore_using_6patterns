@@ -52,26 +52,17 @@ UML Diagram:
 
 Main Application Logic
 The main application logic is implemented in the Main class. Here's a brief overview of its functionality:
-
 Displaying Available Models: Users can view the available iPhone models along with their prices.
-
 Choosing iPhone Model: Users can choose an iPhone model from the available options.
-
 Adding Features: Users can add features such as wireless charging and Face ID to the chosen iPhone model.
-
 Applying iPhone: Users can apply the chosen iPhone model, displaying its final details and price.
-
 Charging via Adapter: Users can charge the chosen iPhone using an adapter, demonstrating the adapter pattern.
-
 Displaying Available Models (Again): Users can view the available iPhone models after making changes.
-
 Creating a New iPhone Model: Users can create a new iPhone model and add it to the shop using the factory pattern.
-
 Exiting the Program: Users can exit the program.
 
 How to Run the Application
 To run the application:
-
 Clone the repository to your local machine.
 Navigate to the project directory.
 Compile and run the Main class.
