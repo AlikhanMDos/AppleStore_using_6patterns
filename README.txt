@@ -50,30 +50,31 @@ UML Diagram:
 ![srcF](https://github.com/AlikhanMDos/AppleStore_using_6patterns/assets/122694328/e8e080b6-54ce-4ee9-853c-b1401cacb803)
 
 
-Main Application Logic
-The main application logic is implemented in the Main class. Here's a brief overview of its functionality:
-Displaying Available Models: Users can view the available iPhone models along with their prices.
-Choosing iPhone Model: Users can choose an iPhone model from the available options.
-Adding Features: Users can add features such as wireless charging and Face ID to the chosen iPhone model.
-Applying iPhone: Users can apply the chosen iPhone model, displaying its final details and price.
-Charging via Adapter: Users can charge the chosen iPhone using an adapter, demonstrating the adapter pattern.
-Displaying Available Models (Again): Users can view the available iPhone models after making changes.
-Creating a New iPhone Model: Users can create a new iPhone model and add it to the shop using the factory pattern.
-Exiting the Program: Users can exit the program.
+Main Application Logic:
+The main application logic is implemented in the Main class. 
+Here's a brief overview of its functionality - 
+1. Displaying Available Models: Users can view the available iPhone models along with their prices.
+2. Choosing iPhone Model: Users can choose an iPhone model from the available options.
+3. Adding Features: Users can add features such as wireless charging and Face ID to the chosen iPhone model.
+4. Applying iPhone: Users can apply the chosen iPhone model, displaying its final details and price.
+5. Charging via Adapter: Users can charge the chosen iPhone using an adapter, demonstrating the adapter pattern.
+6. Displaying Available Models (Again): Users can view the available iPhone models after making changes.
+7. Creating a New iPhone Model: Users can create a new iPhone model and add it to the shop using the factory pattern.
+8. Exiting the Program: Users can exit the program.
 
 How to Run the Application
 To run the application:
-Clone the repository to your local machine.
-Navigate to the project directory.
-Compile and run the Main class.
-bash
-Copy code
-javac Main.java
-java Main
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Compile and run the Main class.
+  javac Main.java
+  java Main
 Follow the on-screen instructions to interact with the application.
 
 Conclusion
 This project demonstrates the application of various design patterns to create a modular and extensible iPhone shop application. The use of design patterns enhances code organization, promotes flexibility, and simplifies the addition of new features. Feel free to explore the codebase and experiment with different scenarios to deepen your understanding of these design patterns. Contributions and suggestions are encouraged for further improvements and learning opportunities.
+
+
 
 Feel free to explore and modify the code to understand the implementation details of each design pattern. Contributions and feedback are welcome!
 
