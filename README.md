@@ -81,4 +81,13 @@ javac Main.java
 java Main
 Follow the on-screen instructions to interact with the application.
 
+Conclusion
+This project demonstrates the application of various design patterns to create a modular and extensible iPhone shop application. The use of design patterns enhances code organization, promotes flexibility, and simplifies the addition of new features. Feel free to explore the codebase and experiment with different scenarios to deepen your understanding of these design patterns. Contributions and suggestions are encouraged for further improvements and learning opportunities.
+
 Feel free to explore and modify the code to understand the implementation details of each design pattern. Contributions and feedback are welcome!
+
+
+
+References:
+https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+Astana IT University Lecture materials
