@@ -48,6 +48,8 @@ How it works: The strategy pattern defines a family of interchangeable charging 
 
 UML Diagram:
 ![srcF](https://github.com/AlikhanMDos/AppleStore_using_6patterns/assets/122694328/e8e080b6-54ce-4ee9-853c-b1401cacb803)
+User friendly command line:
+![image](https://github.com/AlikhanMDos/AppleStore_using_6patterns/assets/122694328/877a0d39-d487-47bb-96c8-0e0ed5cb679f)
 
 
 Main Application Logic:
